@@ -1,4 +1,4 @@
 # Espirito Jovem
 Isso é um repositório cristão...
 
-<h1><b>PROIBIDO</b> a cópia desse repositório</h1>
+<p><b style="color: red;">PROIBIDO</b> a cópia desse repositório</p>
