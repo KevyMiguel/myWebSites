@@ -1,4 +1,4 @@
 # Espirito Jovem
 Isso é um repositório cristão...
 
-<p><b style="color: red;">PROIBIDO</b> a cópia desse repositório</p>
+<p>⚠️ Este projeto é de propriedade intelectual de <b>Kevy</b>. <b style="color: red;">Não é</b> permitido copiar ou reproduzir este site sem autorização.</p>
